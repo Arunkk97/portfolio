@@ -1,0 +1,71 @@
+.home{
+    margin-top: 150px;
+    /* padding-top: 90px; */
+}
+.icons  {
+    margin-top: 100px !important; 
+}
+
+.web{
+    color: #6A6D7C;
+}
+.contactme{
+    margin-top: 60px;
+    height: 60px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: #435ACB;
+    border: none;
+    color: white;
+}
+.aboutimg{
+    border-radius: 250px;
+  
+}
+.abt{
+    margin-top: 80px !important;
+}
+.project{
+    margin-top: 100px;
+}
+.pro{
+    margin-top: 80px !important;
+}
+.contact{
+    margin-top: 200px;
+}
+.sendmsg{
+    margin-top: 60px;
+    height: 60px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: #435ACB;
+    border: none;
+    color: white;
+  
+   
+
+}
+.profilepic{
+    border-radius: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 100%;
+    margin-top: 50px;
+    
+  
+}
+
+.foot{
+    background-color: #576EE0;
+    height: 200px;
+}
+
+.col:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.acard{
+    text-decoration: none;
+}
+
+
