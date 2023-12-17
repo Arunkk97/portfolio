@@ -28,6 +28,13 @@
     border: none;
     color: white;
 }
+@media(max-width:700px){
+    .contactme{
+        width: 120px;
+        height: 40px;
+        font-size: x-small;
+    }
+}
 .contactme:hover{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -59,6 +66,13 @@
    
 
 }
+@media(max-width:700px){
+    .sendmsg{
+        width: 120px;
+        height: 40px;
+        font-size: x-small;
+    }
+}
 .profilepic{
     border-radius: 300px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -67,6 +81,7 @@
     
   
 }
+
 
 .foot{
     background-color: #576EE0;
@@ -82,5 +97,8 @@
     transition: .5s;
 }
 
+.pimg{
+    height: 170px;
+}
 
 
